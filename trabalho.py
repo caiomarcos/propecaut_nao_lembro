@@ -32,7 +32,7 @@ from scipy.stats import skew
 #        rmsee = 1/
 #%%
 #Set dir where data is
-data_dir = '2nd_test'
+data_dir = '4th_test'
 #count the number of files
 file_list = os.listdir(data_dir)
 number_files = len(file_list)
